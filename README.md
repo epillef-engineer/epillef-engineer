@@ -4,8 +4,6 @@
 
 - 🔭 I'm currently working on **Full Stack TypeScript projects.**
 
-- 🌱 I'm currently learning **NestJS and Angular.**
-
 - 👯 I'm looking to collaborate on **open source project.**
 
 - 💬 Ask me about **TypeScript, Node.js, NestJS, Angular, React, TailwindCSS, PostgreSQL, PrismaORM and Web Development.**
