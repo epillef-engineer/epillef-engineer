@@ -8,7 +8,7 @@
 
 - 👯 I'm looking to collaborate on **open source project.**
 
-- 💬 Ask me about **TypeScript, Node.js, NestJS, Angular, React, PostgreSQL, PrismaORM and Web Development.**
+- 💬 Ask me about **TypeScript, Node.js, NestJS, Angular, React, TailwindCSS, PostgreSQL, PrismaORM and Web Development.**
 
 - 📫 How to reach me **epillef-engineer@proton.me**
 
