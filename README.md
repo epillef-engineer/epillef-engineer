@@ -42,18 +42,13 @@ I actively advocate for the **Server-Driven UI (Hotwire and LiveView)** movement
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=epillef-engineer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="65%">
-</p>
-
----
-
 ### 📬 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/epillef-engineer" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="epillef-engineer" height="30" width="40" />
+  </a>
+  <a href="mailto:epillefengineer@proton.me" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="epillefengineer@proton.me" height="30" width="40" />
   </a>
 </p>
