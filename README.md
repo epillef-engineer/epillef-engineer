@@ -50,7 +50,6 @@ I actively advocate for the **Server-Driven UI (Hotwire and LiveView)** movement
   </a>
 </p>
 
----
 
 ### 📊 GitHub Analytics
 
