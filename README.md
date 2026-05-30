@@ -47,6 +47,7 @@ I actively advocate for the **Server-Driven UI (Hotwire and LiveView)** movement
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=epillef-engineer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="65%">
 </p>
+
 ---
 
 ### 📬 Let's Connect
