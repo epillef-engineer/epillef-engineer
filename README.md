@@ -45,10 +45,12 @@ I actively advocate for the **Server-Driven UI (Hotwire and LiveView)** movement
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=epillef-engineer&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="48%">
-  <img src="https://streak-stats.demolab.com/?user=epillef-engineer&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=epillef-engineer&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Activity Graph" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=epillef-engineer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
+</p>
 ---
 
 ### 📬 Let's Connect
