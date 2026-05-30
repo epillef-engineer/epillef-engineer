@@ -46,9 +46,9 @@ I actively advocate for the **Server-Driven UI (Hotwire and LiveView)** movement
 
 <p align="left">
   <a href="https://linkedin.com/in/epillef-engineer" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" title="LinkedIn" width="35" height="35" />
   </a>
   <a href="mailto:epillefengineer@proton.me" rel="noreferrer">
-    <img src="https://api.iconify.design/logos:proton-icon.svg" alt="ProtonMail" title="ProtonMail" width="40" height="40" style="vertical-align: middle; margin-left: 4px;" />
+    <img src="https://cdn.simpleicons.org/proton/6D4AFF" alt="ProtonMail" title="ProtonMail" width="35" height="35" style="margin-left: 8px;" />
   </a>
 </p>
